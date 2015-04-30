@@ -1,13 +1,10 @@
 {
-  "name": "Fuel Node REST",
-  "description": "Demo app for testing Fuel Node REST",
+  "name": "SFMC REST",
+  "description": "This application provides the capability to utilize Salesforce Marketing Cloud's REST library for Node.js applications",
   "repository": "https://github.com/kheldman1/Fuel-Node-REST.git",
-  "logo": "https://login.salesforce.com/img/logo190.png",
+  "logo": "https://s3-us-west-2.amazonaws.com/sfmclogo/salesforce-marketing-cloud-logo.png",
   "keywords": [
-    "kheldman",
-    "REST",
-    "node",
-    "hubexchange"
+    "etresttest"
   ],
   "addons": [],
   "env": {}
