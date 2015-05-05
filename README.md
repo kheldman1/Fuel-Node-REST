@@ -1,8 +1,6 @@
 Fuel REST Client (for Node.js) [![Build Status](https://travis-ci.org/ExactTarget/Fuel-Node-REST.svg?branch=master)](https://travis-ci.org/ExactTarget/Fuel-Node-REST)
 =============
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 This library allows users access to ExactTarget's REST API at a low level.
 
 ```
